@@ -1,0 +1,14 @@
+.card{
+    border-radius: 10px solid red;
+    background-color: black;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:1.3rem;
+}
+input[type="text"]
+{
+    border:5px solid lightblue;
+    
+}
+
+ 
